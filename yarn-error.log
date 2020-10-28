@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe G:\caishiran\software\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\Administrator\bin;G:\caishiran\software\cmder\cmder\bin;G:\caishiran\software\cmder\cmder\vendor\bin;C:\Program Files\Git\bin;G:\caishiran\software\cmder\cmder\vendor\git-for-windows\mingw64\bin;G:\caishiran\software\cmder\cmder\vendor\git-for-windows\usr\local\bin;G:\caishiran\software\cmder\cmder\vendor\git-for-windows\usr\bin;G:\caishiran\software\cmder\cmder\vendor\git-for-windows\usr\bin;G:\caishiran\software\cmder\cmder\vendor\git-for-windows\mingw64\bin;G:\caishiran\software\cmder\cmder\vendor\git-for-windows\usr\bin;C:\Users\Administrator\bin;G:\caishiran\software\cmder\cmder\vendor\conemu-maximus5\ConEmu\Scripts;G:\caishiran\software\cmder\cmder\vendor\conemu-maximus5;G:\caishiran\software\cmder\cmder\vendor\conemu-maximus5\ConEmu;C:\Python27;C:\Python27\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Users\Administrator\AppData\Local\Android\Sdk\tools;C:\Users\Administrator\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\TortoiseSVN\bin;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;G:\caishiran\software\yarn\bin;C:\Program Files\Git\cmd;C:\Ruby22-x64\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_191\bi;C:\Program Files\Java\jdk1.8.0_191\jre\bin";E:\ff\Fiddler;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;G:\caishiran\software\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Users\Administrator\AppData\Local\Yarn\bin;G:\caishiran\software\cmder\cmder;G:\caishiran\software\cmder\cmder\vendor\git-for-windows\usr\bin\vendor_perl;G:\caishiran\software\cmder\cmder\vendor\git-for-windows\usr\bin\core_perl
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  12.13.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (G:\caishiran\software\yarn\lib\cli.js:136824:13)
+      at Interface.emit (events.js:210:5)
+      at Interface._ttyWrite (readline.js:887:16)
+      at ReadStream.onkeypress (readline.js:191:10)
+      at ReadStream.emit (events.js:210:5)
+      at emitKeys (internal/readline/utils.js:433:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1153:36)
+      at ReadStream.emit (events.js:210:5)
+      at addChunk (_stream_readable.js:308:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

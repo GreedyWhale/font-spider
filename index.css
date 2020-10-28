@@ -1,0 +1,18 @@
+/*声明 WebFont*/
+@font-face {
+  font-family: 'Odachi';
+  src: url('./fonts/Odachi.eot');
+  src:
+    url('./fonts/Odachi.eot?#font-spider') format('embedded-opentype'),
+    url('./fonts/Odachi.woff2') format('woff2'),
+    url('./fonts/Odachi.woff') format('woff'),
+    url('./fonts/Odachi.ttf') format('truetype'),
+    url('./fonts/Odachi.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*使用指定字体*/
+p {
+  font-family: 'Odachi';
+}
